@@ -49,3 +49,5 @@ while True:
     print(outputText)
     speak(outputText)
  
+
+ #all task done
